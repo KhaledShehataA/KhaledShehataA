@@ -8,8 +8,7 @@
 
 - 🔭 I’m currently working on REACT ECOMMERCE PROJECT
 - 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with with other content creators
+- 👯 I’m looking to collaborate with other content creators 
 - 🥅 2021 Goals: Learn as much as js
 - ⚡ Fun fact: I love to Code
 
