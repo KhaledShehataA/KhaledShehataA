@@ -1,5 +1,9 @@
 ### Hi there, I'm Khaled 👋
-### I'm a Developer and Student!
+## I'm a Developer and Student!
+
+## Skills and Experience
+* ☸ React
+* 💻 HTML, CSS, JS 
 
 
 - 🔭 I’m currently working on REACT ECOMMERCE PROJECT
