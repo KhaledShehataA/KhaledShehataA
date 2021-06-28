@@ -2,7 +2,7 @@
 ## I'm a  Developer and Student!
  <img src="https://komarev.com/ghpvc/?username=KhaledShehataA" alt="" />
  
-- 🔭 I’m currently working on Quote App 
+- 🔭 I’m currently working on MERN PROJECT 
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Learn as much as js
