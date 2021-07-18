@@ -3,9 +3,11 @@
  <img src="https://komarev.com/ghpvc/?username=KhaledShehataA" alt="" />
  
 - 🔭 I’m currently working on unplugged-shop(MERN PROJECT) 
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate with other content creators
+- 🌱 I’m currently learning Next.js
+- 🤔 Ready to land my first tech job
+- 👯 Looking to collaborate on open source projects
 - 🥅 2021 Goals: Learn as much as js
+- 📫 How to reach me: khaled.ah.shehata@gmail.com
 - ⚡ Fun fact: I love to Code 
 
 <img align="center" height="150vh" width="350px" padding="20px" src="https://github-readme-stats.vercel.app/api?username=KhaledShehataA&show_icons=true&theme=radical"/>
