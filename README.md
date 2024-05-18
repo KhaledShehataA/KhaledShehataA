@@ -4,9 +4,9 @@
  
 - 🔭 I’m currently working on unplugged-shop(MERN PROJECT) 
 - 🌱 I’m currently learning Next.js
-- 🤔 Ready to land my first tech job
+- 🤔 Ready to land as a senior tech job
 - 👯 Looking to collaborate on open source projects
-- 🥅 2021 Goals: Learn as much as js
+- 🥅 2024 Goals: Learn as much as js
 - 📫 How to reach me: khaled.ah.shehata@gmail.com
 - ⚡ Fun fact: I love to Code 
 
